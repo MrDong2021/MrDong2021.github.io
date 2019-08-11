@@ -5,7 +5,7 @@
 再按以下文档进行安装：[点这里]（https://nic.nju.edu.cn/_upload/article/files/67/d8/2f5df32b40b1910b9fe499d87c99/8b4500e4-c67f-4458-8dc0-1e574b31e819.pdf）
 
 
-You can use the [点这里](https://github.com/MrDong2021/MrDong2021.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [点这里](https://nic.nju.edu.cn/_upload/article/files/67/d8/2f5df32b40b1910b9fe499d87c99/8b4500e4-c67f-4458-8dc0-1e574b31e819.pdf) to maintain and preview the content for your website in Markdown files.
 
 You can use the [editor on GitHub](https://github.com/MrDong2021/MrDong2021.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
