@@ -14,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ![avatar](https://github.com/MrDong2021/MrDong2021.github.io/blob/master/%E5%93%AA%E5%90%92.jpg)
 
 
-![avatar](ICBGaWxlICJtYWluLnB5IiwgbGluZSA1CiAgICBmPW9wZW4oL1VzZXJzL21hYy9EZXNrdG9wL+WTquWQki5qcGcsJ3JiJykgI+S6jOi/m+WItuaWueW8j+aJk+W8gOWbvuaWh+S7tgogICAgICAgICAgIF4KU3ludGF4RXJyb3I6IGludmFsaWQgc3ludGF4Cg==RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=)
+![avatar](https://github.com/MrDong2021/MrDong2021.github.io/raw/master/哪吒.jpg)
 
 ![avatar](/Users/mac/Desktop/哪吒.jpg）
 
