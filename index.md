@@ -11,10 +11,10 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![avatar](https://pic2.cwuzx.com/264f0a647556ff0f5f5ce1d2488f936d1a4cfbd7-800.jpg)
+![avatar](https://github.com/MrDong2021/MrDong2021.github.io/blob/master/%E5%93%AA%E5%90%92.jpg)
 
 ```markdown
 
-![avatar](https://pic2.cwuzx.com/264f0a647556ff0f5f5ce1d2488f936d1a4cfbd7-800.jpg)
+
 
 ```
