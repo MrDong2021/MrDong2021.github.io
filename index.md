@@ -11,6 +11,8 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![avatar](https://pic2.cwuzx.com/264f0a647556ff0f5f5ce1d2488f936d1a4cfbd7-800.jpg)
+
 ```markdown
 
 ![avatar](https://pic2.cwuzx.com/264f0a647556ff0f5f5ce1d2488f936d1a4cfbd7-800.jpg)
