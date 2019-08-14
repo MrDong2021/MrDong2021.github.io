@@ -13,7 +13,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![avatar](https://github.com/MrDong2021/MrDong2021.github.io/blob/master/%E5%93%AA%E5%90%92.jpg)
 
-哪吒.jpg
+
+![avatar](://github.com/MrDong2021/MrDong2021.github.io/blob/master/%E5%93%AA%E5%90%92.jpg?raw=true)
+
+![avatar](
 
 ```markdown
 
