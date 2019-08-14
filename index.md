@@ -4,24 +4,13 @@
 
 再按以下文档进行安装：[点这里](https://nic.nju.edu.cn/_upload/article/files/67/d8/2f5df32b40b1910b9fe499d87c99/8b4500e4-c67f-4458-8dc0-1e574b31e819.pdf) 
 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
