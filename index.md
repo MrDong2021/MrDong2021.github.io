@@ -13,5 +13,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-<img src="哪吒.jpg" alt="哪吒" />
+![avatar](哪吒.jpg)
+
 ```
