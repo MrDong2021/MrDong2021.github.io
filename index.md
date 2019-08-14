@@ -16,8 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![avatar](https://github.com/MrDong2021/MrDong2021.github.io/raw/master/哪吒.jpg)
 
-![avatar](/Users/mac/Desktop/哪吒.jpg）
-
 ![avatar](
 
 ```markdown
