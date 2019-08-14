@@ -20,7 +20,7 @@ ki5qcGcnLCdyYicpICPkuozov5vliLbmlrnlvI/miZPlvIDlm77mlofku7YK
 SU9FcnJvcjogW0Vycm5vIDJdIE5vIHN1Y2ggZmlsZSBvciBkaXJlY3Rvcnk6
 ICdceGU1XHg5M1x4YWFceGU1XHg5MFx4OTIuanBnJwo=
 
-RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=）
+RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=)
 
 ![avatar](
 
