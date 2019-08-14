@@ -16,6 +16,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![avatar](ICBGaWxlICJtYWluLnB5IiwgbGluZSA1CiAgICBmPW9wZW4oL1VzZXJzL21hYy9EZXNrdG9wL+WTquWQki5qcGcsJ3JiJykgI+S6jOi/m+WItuaWueW8j+aJk+W8gOWbvuaWh+S7tgogICAgICAgICAgIF4KU3ludGF4RXJyb3I6IGludmFsaWQgc3ludGF4Cg==RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=)
 
+![avatar](/Users/mac/Desktop/哪吒.jpg）
+
 ![avatar](
 
 ```markdown
