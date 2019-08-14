@@ -14,13 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ![avatar](https://github.com/MrDong2021/MrDong2021.github.io/blob/master/%E5%93%AA%E5%90%92.jpg)
 
 
-![avatar](data:image/jpg;base64,VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIm1h
-aW4ucHkiLCBsaW5lIDUsIGluIDxtb2R1bGU+CiAgICBmPW9wZW4oJ+WTquWQ
-ki5qcGcnLCdyYicpICPkuozov5vliLbmlrnlvI/miZPlvIDlm77mlofku7YK
-SU9FcnJvcjogW0Vycm5vIDJdIE5vIHN1Y2ggZmlsZSBvciBkaXJlY3Rvcnk6
-ICdceGU1XHg5M1x4YWFceGU1XHg5MFx4OTIuanBnJwo=
-
-RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=)
+![avatar](data:image/jpg;base64,VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIm1haW4ucHkiLCBsaW5lIDUsIGluIDxtb2R1bGU+CiAgICBmPW9wZW4oJ+WTquWQki5qcGcnLCdyYicpICPkuozov5vliLbmlrnlvI/miZPlvIDlm77mlofku7YKSU9FcnJvcjogW0Vycm5vIDJdIE5vIHN1Y2ggZmlsZSBvciBkaXJlY3Rvcnk6ICdceGU1XHg5M1x4YWFceGU1XHg5MFx4OTIuanBnJwo=RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=)
 
 ![avatar](
 
